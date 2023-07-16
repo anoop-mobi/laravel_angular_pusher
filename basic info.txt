@@ -1,0 +1,12 @@
+laravel project: laravel-chat
+angular project: bilddit-v
+
+api to hit: http://127.0.0.1:8000/api/messages
+
+
+
+dummy data in body of post-man Raw JSON
+{
+    "username":"Anoop",
+    "message":"hiiigffi"
+}
